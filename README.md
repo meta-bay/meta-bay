@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meta-bay
 - 👀
--    Student at ALX
-- 🌱 I’m currently learning Software Engineering
+-    ALX Graduate
+- 🌱 I’m Software Engineer
 - 💞️ 
 - 📫
 - 
